@@ -1,4 +1,4 @@
-This is your new Play application
+TaskManager
 =================================
 
-This file will be packaged with your application, when using `activator dist`.
+This web app is an example of how to use Play Framework, Reactive Mongo and Facebook's React.js for creating a web application.
