@@ -1,0 +1,4 @@
+[warn] D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala:49: method cursor in trait GenericQueryBuilder is deprecated: Use [[cursor]] function with read preference.
+[warn]     val cursor:Cursor[Tarea] = collection.find(Json.obj()).cursor[Tarea]
+[warn]                                                            ^
+[warn] one warning found

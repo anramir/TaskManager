@@ -1,0 +1,887 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+66 items
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$addTask$1$$anonfun$apply$2.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$addTask$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$index$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$removeTask$1$$anonfun$apply$3.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$removeTask$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$tasks$1$$anonfun$apply$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$tasks$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$updateTask$1$$anonfun$apply$4.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$updateTask$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Tarea$$anonfun$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Tarea$$anonfun$2.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Tarea$.class
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Tarea.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\javascript\ReverseApplication.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\javascript\ReverseAssets.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\javascript\ReverseWebJarAssets.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\ReverseApplication.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\ReverseAssets.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\ReverseWebJarAssets.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$documentation$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_addTask2_invoker$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_removeTask3_invoker$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_tasks1_invoker$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_updateTask4_invoker$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Assets_versioned5_invoker$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_WebJarAssets_at6_invoker$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\RoutesPrefix$$anonfun$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\RoutesPrefix$.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\RoutesPrefix.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index$.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index_Scope0$.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index_Scope0$index$$anonfun$f$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index_Scope0$index.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index_Scope0.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban$.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban_Scope0$.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban_Scope0$kanban$$anonfun$f$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban_Scope0$kanban.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban_Scope0.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main$.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main_Scope0$.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1$$anonfun$apply$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main_Scope0$main.class
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main_Scope0.class
+binary dependencies:
+34 items
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play-functional_2.11\jars\play-functional_2.11-2.4.4.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play-json_2.11\jars\play-json_2.11-2.4.4.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.4.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> C:\Users\Andrés\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> C:\Users\Andrés\.ivy2\cache\org.reactivemongo\play2-reactivemongo_2.11\jars\play2-reactivemongo_2.11-0.11.7.play24.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> C:\Users\Andrés\.ivy2\cache\org.reactivemongo\reactivemongo_2.11\jars\reactivemongo_2.11-0.11.7.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> C:\Users\Andrés\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.4.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\Andrés\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.4.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\Andrés\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.4.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Andrés\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\Andrés\.ivy2\cache\org.webjars\webjars-play_2.11\jars\webjars-play_2.11-2.4.0-1.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Users\Andrés\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.4.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\Andrés\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.4.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> C:\Users\Andrés\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> C:\Users\Andrés\.ivy2\cache\org.webjars\webjars-play_2.11\jars\webjars-play_2.11-2.4.0-1.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.4.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Andrés\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\Andrés\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+8 items
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\routes.java
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\routes.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+66 items
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Application
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Application$$anonfun$addTask$1
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Application$$anonfun$addTask$1$$anonfun$apply$2
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Application$$anonfun$index$1
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Application$$anonfun$removeTask$1
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Application$$anonfun$removeTask$1$$anonfun$apply$3
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Application$$anonfun$tasks$1
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Application$$anonfun$tasks$1$$anonfun$apply$1
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Application$$anonfun$updateTask$1
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Application$$anonfun$updateTask$1$$anonfun$apply$4
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Tarea
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Tarea$
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Tarea$$anonfun$1
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers.Tarea$$anonfun$2
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseApplication
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseAssets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseWebJarAssets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseApplication
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseAssets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseWebJarAssets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$documentation$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_addTask2_invoker$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_removeTask3_invoker$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_tasks1_invoker$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_updateTask4_invoker$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Assets_versioned5_invoker$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_WebJarAssets_at6_invoker$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$4
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$5
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$6
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$7
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix$
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix$$anonfun$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index$
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$index
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$index$$anonfun$f$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> views.html.kanban
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> views.html.kanban$
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> views.html.kanban_Scope0
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> views.html.kanban_Scope0$
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> views.html.kanban_Scope0$kanban
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> views.html.kanban_Scope0$kanban$$anonfun$f$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main$
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$main
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$main$$anonfun$f$1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$main$$anonfun$f$1$$anonfun$apply$1
+used names:
+475 items
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> &&
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> ->
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> <init>
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> ==
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Action
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> AnyRef
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Application
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Codec
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> ContentTypeOf
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Controller
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Cursor
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> CursorProducer
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Execution
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Format
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Forms
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Future
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> GenericFormat
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Implicits
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Inject
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> JSONCollection
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> JSONCollectionProducer
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> JSON_KEY_ID
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> JSON_KEY_STATUS
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> JSON_KEY_TASK
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> JsObjectDocumentWriter
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> JsPath
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> JsResult
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Json
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> List
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Logger
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> MongoController
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> None
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> OFormat
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> OWrites
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Ok
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Predef
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Product
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> ReactiveMongoApi
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> ReactiveMongoComponents
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Reads
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> ScalaRunTime
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Serializable
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> String
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> StringReads
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> StringWrites
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Success
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Tarea
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> UUID
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Writeable
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> Writes
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> \
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> _hashCode
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> _id
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> _toString
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> and
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> api
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> applicative
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> applicativeJsResult
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> apply
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> asInstanceOf
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> async
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> augmentString
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> canBuildFrom
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> collect
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> collection
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> concurrent
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> contentTypeOf_Html
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> controllers
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> cursor
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> data
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> db
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> defaultContext
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> defaultCursorProducer
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> eq
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> find
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> format
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> functional
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> functionalCanBuildApplicative
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> functionalCanBuildFormats
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> functionalCanBuildOWrites
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> futureTaskList
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> html
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> http
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> identifier
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> immutable
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> inject
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> insert
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> invariantFunctorOFormat
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> isInstanceOf
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> java
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> javax
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> json
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> kanban
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> lastError
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> libs
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> map
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> modifier
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> modules
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> mvc
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> newTask
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> obj
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> package
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> play
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> qual$1
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> qual$2
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> qual$3
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> qual$4
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> randomUUID
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> reactiveMongoApi
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> reactivemongo
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> remove
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> runtime
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> scala
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> selector
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> status
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> syntax
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> tareaFormat
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> task
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> tasks
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> toFunctionalBuilderOps
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> toJsFieldJsValueWrapper
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> toJson
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> toString
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> traversableWrites
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> typedProductIterator
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> unlift
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> update
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> utf_8
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> util
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> views
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> wString
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> writeableOf_Content
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> writeableOf_JsValue
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$1
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$10
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$11
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$12
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$2
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$3
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$4
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$5
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$6
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$7
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$8
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> x$9
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> ||
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> +
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <byname>
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <init>
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> AnyRef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Asset
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Assets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Call
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> HandlerDef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> JavascriptLiteral
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> PathBindable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Predef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> QueryStringBindable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseApplication
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseAssets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseRouteContext
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseWebJarAssets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> String
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _defaultPrefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _prefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _root_
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> api
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> assetPathBindable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> bindableString
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> core
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> dynamicString
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> empty
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> endsWith
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> implicitly
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascript
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascriptUnbind
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> mvc
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> play
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> queryString
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> routing
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> +
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> <byname>
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> <init>
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> AnyRef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Asset
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Assets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Call
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> HandlerDef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> JavascriptLiteral
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> List
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Map
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> PathBindable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Predef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> QueryStringBindable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseApplication
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseAssets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseRouteContext
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseWebJarAssets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> String
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _defaultPrefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _prefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _root_
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _rrc
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> api
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> apply
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> assetPathBindable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> bindableString
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> core
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> dynamicString
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> empty
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> endsWith
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> file
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> identifier
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> immutable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> implicitly
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> mvc
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> package
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> play
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> queryString
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> routing
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> status
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> task
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> unbind
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> +
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> ++
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> :+
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> <init>
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> A1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Any
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Application
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Application_2
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Asset
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Assets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Assets_1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> B1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Function1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> GeneratedRouter
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Handler
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> HandlerInvokerFactory
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> HttpErrorHandler
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> List
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Nil
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> None
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> PartialFunction
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> PathBindable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Predef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> QueryStringBindable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> RequestHeader
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> ReverseRouteContext
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Right
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Route
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Routes
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> RoutesPrefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Seq
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> String
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> Tuple3
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> WebJarAssets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> WebJarAssets_0
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> addTask
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> api
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> apply
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> asInstanceOf
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> assetPathBindable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> at
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> bindableString
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> call
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> canBuildFrom
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> collection
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_addTask2_invoker
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_addTask2_route
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_index0_invoker
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_index0_route
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_removeTask3_invoker
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_removeTask3_route
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_tasks1_invoker
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_tasks1_route
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_updateTask4_invoker
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_updateTask4_route
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Assets_versioned5_invoker
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Assets_versioned5_route
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_WebJarAssets_at6_invoker
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> controllers_WebJarAssets_at6_route
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> core
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> createInvoker
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> defaultPrefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> e
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> empty
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> endsWith
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> errorHandler
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> fakeValue
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> file
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> foldLeft
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> fromPath
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> fromQuery
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> get
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> getClass
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> getClassLoader
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> http
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> identifier
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> immutable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> index
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> isEmpty
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> isInstanceOf
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> j
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> mvc
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> package
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> params
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> passThrough
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> path
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> play
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> prefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> removeTask
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> router
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> routing
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> s
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> setPrefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> status
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> task
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> tasks
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> unapply
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> unary_!
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> unchecked
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> updateTask
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> versioned
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> <init>
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> AnyRef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Function0
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Predef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> RoutesPrefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> String
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Unit
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> _prefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> _prefix_=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> byNamePrefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> p
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> prefix
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> <init>
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> Any
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> AnyRef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> Appendable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> BaseScalaTemplate
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> Format
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> Function1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> HtmlFormat
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> ManifestFactory
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> PlayMagic
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> Predef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> Seq
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> String
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> Template1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> TemplateMagic
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> _display_
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> _root_
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> api
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> apply
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> classType
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> collection
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> controllers
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> data
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> format
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> html
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> i18n
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> index
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> index_Scope0
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> main
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> message
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> models
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> mvc
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> play
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> play20
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> raw
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> reflect
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> templates
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> twirl
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> views
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> welcome
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> <init>
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> Any
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> AnyRef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> Appendable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> Asset
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> Assets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> BaseScalaTemplate
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> Format
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> Function0
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> HtmlFormat
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> ManifestFactory
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> PlayMagic
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> Seq
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> Template0
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> TemplateMagic
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> WebJarAssets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> _display_
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> _root_
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> api
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> apply
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> at
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> classType
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> collection
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> controllers
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> data
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> format
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> fullPath
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> html
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> i18n
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> kanban
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> kanban_Scope0
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> locate
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> models
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> mvc
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> play
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> raw
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> reflect
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> routes
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> string2Asset
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> templates
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> twirl
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> versioned
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> views
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> <init>
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> Any
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> AnyRef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> Appendable
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> Asset
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> Assets
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> BaseScalaTemplate
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> Format
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> Function1
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> Html
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> HtmlFormat
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> ManifestFactory
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> PlayMagic
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> Predef
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> Seq
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> String
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> Template2
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> TemplateMagic
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> _display_
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> _root_
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> api
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> apply
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> classType
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> collection
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> content
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> controllers
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> data
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> format
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> html
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> i18n
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> main
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> main_Scope0
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> models
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> mvc
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> play
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> raw
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> reflect
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> routes
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> scala
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> string2Asset
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> templates
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> title
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> twirl
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> versioned
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> views
+product stamps:
+66 items
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$addTask$1$$anonfun$apply$2.class -> lastModified(1448875155680)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$addTask$1.class -> lastModified(1448875155673)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$index$1.class -> lastModified(1448875155684)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$removeTask$1$$anonfun$apply$3.class -> lastModified(1448875155695)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$removeTask$1.class -> lastModified(1448875155690)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$tasks$1$$anonfun$apply$1.class -> lastModified(1448875155709)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$tasks$1.class -> lastModified(1448875155701)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$updateTask$1$$anonfun$apply$4.class -> lastModified(1448875155723)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application$$anonfun$updateTask$1.class -> lastModified(1448875155716)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Application.class -> lastModified(1448875155661)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\javascript\ReverseApplication.class -> lastModified(1448875155781)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\javascript\ReverseAssets.class -> lastModified(1448875155787)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\javascript\ReverseWebJarAssets.class -> lastModified(1448875155792)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\ReverseApplication.class -> lastModified(1448875155734)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\ReverseAssets.class -> lastModified(1448875155740)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\ReverseWebJarAssets.class -> lastModified(1448875155746)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Tarea$$anonfun$1.class -> lastModified(1448875155771)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Tarea$$anonfun$2.class -> lastModified(1448875155775)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Tarea$.class -> lastModified(1448875155767)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\controllers\Tarea.class -> lastModified(1448875155759)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$documentation$1.class -> lastModified(1448875155821)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_addTask2_invoker$1.class -> lastModified(1448875155827)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1.class -> lastModified(1448875155831)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_removeTask3_invoker$1.class -> lastModified(1448875155837)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_tasks1_invoker$1.class -> lastModified(1448875155842)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_updateTask4_invoker$1.class -> lastModified(1448875155848)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Assets_versioned5_invoker$1.class -> lastModified(1448875155853)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_WebJarAssets_at6_invoker$1.class -> lastModified(1448875155858)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1448875155880)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1448875155875)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class -> lastModified(1448875155891)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class -> lastModified(1448875155887)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class -> lastModified(1448875155900)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class -> lastModified(1448875155896)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class -> lastModified(1448875155913)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class -> lastModified(1448875155907)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5.class -> lastModified(1448875155923)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5.class -> lastModified(1448875155918)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6.class -> lastModified(1448875155933)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6.class -> lastModified(1448875155929)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7.class -> lastModified(1448875155944)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7.class -> lastModified(1448875155939)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes$$anonfun$routes$1.class -> lastModified(1448875155869)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\Routes.class -> lastModified(1448875155814)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\RoutesPrefix$$anonfun$1.class -> lastModified(1448875155956)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\RoutesPrefix$.class -> lastModified(1448875155952)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\router\RoutesPrefix.class -> lastModified(1448875155948)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index$.class -> lastModified(1448875155971)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index.class -> lastModified(1448875155966)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index_Scope0$.class -> lastModified(1448875155980)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index_Scope0$index$$anonfun$f$1.class -> lastModified(1448875155993)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index_Scope0$index.class -> lastModified(1448875155988)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\index_Scope0.class -> lastModified(1448875155976)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban$.class -> lastModified(1448875156006)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban.class -> lastModified(1448875156002)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban_Scope0$.class -> lastModified(1448875156013)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban_Scope0$kanban$$anonfun$f$1.class -> lastModified(1448875156026)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban_Scope0$kanban.class -> lastModified(1448875156020)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\kanban_Scope0.class -> lastModified(1448875156010)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main$.class -> lastModified(1448875156038)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main.class -> lastModified(1448875156034)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main_Scope0$.class -> lastModified(1448875156044)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1$$anonfun$apply$1.class -> lastModified(1448875156061)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1.class -> lastModified(1448875156056)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main_Scope0$main.class -> lastModified(1448875156050)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\classes\views\html\main_Scope0.class -> lastModified(1448875156041)
+source stamps:
+9 items
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> hash(4b26cf9e4f6a5c84454698ce8f12e552aaa5af60)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> hash(d8e85fa9dc67af78bec43eb37f7329e8c73281e5)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> hash(2a77ba48a7029a4564c9dcfe17a365c76be69074)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\routes.java -> hash(e8d7393f3490e6bcb12958262b3b2f96e9975536)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> hash(7305346c585f650e7df23e4506ecf564fe186ad4)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> hash(27d467a72f70d1bc79f9e1076b5e110a96517f5b)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> hash(a061688c9c9693dca1ec19fb0fcca1a5e674d4ef)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> hash(0138ed7c4cafec1b2ce178463ee5fbcb7ef5782f)
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> hash(5f9ea6ac112024bd968855a8d17a8cca6f35564b)
+binary stamps:
+10 items
+C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar -> lastModified(1429888525366)
+C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play-functional_2.11\jars\play-functional_2.11-2.4.4.jar -> lastModified(1447882217000)
+C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play-json_2.11\jars\play-json_2.11-2.4.4.jar -> lastModified(1447882260000)
+C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.4.jar -> lastModified(1447882380000)
+C:\Users\Andrés\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar -> lastModified(1431579649000)
+C:\Users\Andrés\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar -> lastModified(1255476900000)
+C:\Users\Andrés\.ivy2\cache\org.reactivemongo\play2-reactivemongo_2.11\jars\play2-reactivemongo_2.11-0.11.7.play24.jar -> lastModified(1441365700000)
+C:\Users\Andrés\.ivy2\cache\org.reactivemongo\reactivemongo_2.11\jars\reactivemongo_2.11-0.11.7.jar -> lastModified(1441358598000)
+C:\Users\Andrés\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> lastModified(1424912463000)
+C:\Users\Andrés\.ivy2\cache\org.webjars\webjars-play_2.11\jars\webjars-play_2.11-2.4.0-1.jar -> lastModified(1433120079000)
+class names:
+10 items
+C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play-functional_2.11\jars\play-functional_2.11-2.4.4.jar -> play.api.libs.functional.FunctionalBuilderOps
+C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play-json_2.11\jars\play-json_2.11-2.4.4.jar -> play.api.libs.json.JsPath
+C:\Users\Andrés\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.4.4.jar -> controllers.Assets$
+C:\Users\Andrés\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar -> play.twirl.api.Template2
+C:\Users\Andrés\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar -> javax.inject.Inject
+C:\Users\Andrés\.ivy2\cache\org.reactivemongo\play2-reactivemongo_2.11\jars\play2-reactivemongo_2.11-0.11.7.play24.jar -> play.modules.reactivemongo.MongoController
+C:\Users\Andrés\.ivy2\cache\org.reactivemongo\reactivemongo_2.11\jars\reactivemongo_2.11-0.11.7.jar -> reactivemongo.api.FailoverStrategy
+C:\Users\Andrés\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> scala.collection.generic.GenericCompanion
+C:\Users\Andrés\.ivy2\cache\org.webjars\webjars-play_2.11\jars\webjars-play_2.11-2.4.0-1.jar -> controllers.WebJarAssets$
+internal apis:
+9 items
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCDz7O1AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAEc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwlXBt53QAC3RhcmVhRm9ybWF0c3EAfgALDO4TZnQAD3JlcXVlc3Qyc2Vzc2lvbnNxAH4AC2dnSxt0AA1yZXF1ZXN0MmZsYXNoc3EAfgAL2RS/XnQADHJlcXVlc3QybGFuZ3VxAH4ACQAAAS1zcQB+AAvVda1edAALY2hlY2tGb3JFb2ZzcQB+AAuLb/SNdAAMUmVzZXRDb250ZW50c3EAfgALaGhS/HQADU5vdEFjY2VwdGFibGVzcQB+AAtIuuC/dAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAsI5adHdAAIc2VuZEZpbGVzcQB+AAsHBStHdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALonmSp3QABkxvY2tlZHNxAH4AC8+4nWp0AAZub3RpZnlzcQB+AAvgvcxTdAAERlJPTXNxAH4AC1hbtdx0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALOfKH0XQAB0NSRUFURURzcQB+AAu0TiQxdAAHdW5hcHBseXNxAH4AC3mMytF0ABBUT09fTUFOWV9SRVFVRVNUc3EAfgAL3H3CI3QAB2FkZFRhc2tzcQB+AAtxOG2wdAASdG9sZXJhbnRCb2R5UGFyc2Vyc3EAfgALTq/DmHQAB1dBUk5JTkdzcQB+AAtgvIuXdAAPUGF5bWVudFJlcXVpcmVkc3EAfgAL85AAzHQACENPTlRJTlVFc3EAfgALN06gKXQABGJvZHlzcQB+AAt4XGqxdAAFY2h1bmtzcQB+AAtp7c2zdAAOZm9ybSRkZWZhdWx0JDJzcQB+AAtVrsgqdAALU0VUX0NPT0tJRTJzcQB+AAujiXBOdAAISFRUUF8xXzFzcQB+AAvKBkJmdAAPSlNPTl9LRVlfU1RBVFVTc3EAfgAL/dKh6nQAE0NPTlRFTlRfRElTUE9TSVRJT05zcQB+AAvxhWGWdAANcmF3JGRlZmF1bHQkMXNxAH4ACy6TPkx0AAtKU09OX0tFWV9JRHNxAH4ACztsThd0AAxDT05URU5UX1RZUEVzcQB+AAtyqlvpdAAGQklOQVJZc3EAfgALZgnedHQABHdhaXRzcQB+AAsKYEl+dAAEdGFza3NxAH4ACyHFLql0ABxBQ0NFU1NfQ09OVFJPTF9BTExPV19NRVRIT0RTc3EAfgALhmEdCnQACkJhZEdhdGV3YXlzcQB+AAs7xjjPdAAQTWV0aG9kTm90QWxsb3dlZHNxAH4AC0NLMgF0AA5Ub29NYW55UmVxdWVzdHNxAH4AC21yJKt0ABNkZWNodW5rV2l0aFRyYWlsZXJzc3EAfgALNNnwWXQAClVTRVJfQUdFTlRzcQB+AAs4NR46dAAWc2VuZFJlc291cmNlJGRlZmF1bHQkMnNxAH4AC72qYZJ0AARIT1NUc3EAfgALetBjXHQAC0NPTlRFTlRfTUQ1c3EAfgALqyoMnHQADmNvcHkkZGVmYXVsdCQyc3EAfgALij6fB3QAB0NyZWF0ZWRzcQB+AAs7getJdAANJGFzSW5zdGFuY2VPZnNxAH4AC1HRc690AAVlbXB0eXNxAH4AC+m/wVV0ABBYX0ZPUldBUkRFRF9QT1JUc3EAfgAL1M/aanQACkphdmFTY3JpcHRzcQB+AAtpiYD5dAAKY29sbGVjdGlvbnNxAH4ACzkkXep0AAtCQURfUkVRVUVTVHNxAH4AC9S77W90AAV1c2luZ3NxAH4AC2fYJ0x0ABByZWFjdGl2ZU1vbmdvQXBpc3EAfgALPrkiSnQADk5vdEltcGxlbWVudGVkc3EAfgALYEjIM3QAGkNPTlRFTlRfRElTUE9TSVRJT05fSU5MSU5Fc3EAfgALLvOVcHQADE1BWF9GT1JXQVJEU3NxAH4AC0qLwSp0ABBYX0ZPUldBUkRFRF9IT1NUc3EAfgALejVXKnQAHkNPTlRFTlRfRElTUE9TSVRJT05fQVRUQUNITUVOVHNxAH4AC6+6LmN0AAp1cGRhdGVUYXNrc3EAfgALyQ6Co3QAA0NTU3NxAH4AC1tPKAF0AAx0b2xlcmFudEpzb25zcQB+AAuiTkvydAAIU2VlT3RoZXJzcQB+AAtWwSMIdAAHVFJBSUxFUnNxAH4ACw4I6550ABJQUk9YWV9BVVRIRU5USUNBVEVzcQB+AAsW6TugdAANQVVUSE9SSVpBVElPTnNxAH4ACwA2h1R0AANYTUxzcQB+AAu+yeZAdAAKYW55Q29udGVudHNxAH4AC6by64N0AA1DQUNIRV9DT05UUk9Mc3EAfgALn7W7EXQAG05vbkF1dGhvcml0YXRpdmVJbmZvcm1hdGlvbnNxAH4AC44JiAh0AA9OT1RfSU1QTEVNRU5URURzcQB+AAt37o6BdAAMcHJvZHVjdEFyaXR5c3EAfgAL8reLbnQABmVxdWFsc3NxAH4AC+X+S6V0ABBQQVlNRU5UX1JFUVVJUkVEc3EAfgAL5wLE53QABGpzb25zcQB+AAt3brdMdAAIQWNjZXB0ZWRzcQB+AAuB3d8udAAKcmVtb3ZlVGFza3NxAH4ACyiw6tR0AAtSRVRSWV9BRlRFUnNxAH4AC3FaWjZ0ABJSZWRpcmVjdCRkZWZhdWx0JDJzcQB+AAuZQIFcdAAOdXJsRm9ybUVuY29kZWRzcQB+AAt51LfpdAAESlNPTnNxAH4AC+AguDJ0AAhSZWRpcmVjdHNxAH4AC8Wxhmh0ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgAL/2uganQADlBhcnRpYWxDb250ZW50c3EAfgALCx9WvXQAFFVuc3VwcG9ydGVkTWVkaWFUeXBlc3EAfgALUjgezXQAA19pZHNxAH4ACxNSk9h0AAhDT05GTElDVHNxAH4AC/exIqB0ABJzZW5kRmlsZSRkZWZhdWx0JDJzcQB+AAsPxDi5dAAOQUNDRVBUX0NIQVJTRVRzcQB+AAttsAZQdAARRXhwZWN0YXRpb25GYWlsZWRzcQB+AAv+ReyrdAADVklBc3EAfgAL5rjk73QABXNlcnZlc3EAfgALXDiF+3QADGFzSW5zdGFuY2VPZnNxAH4ACzmyVIZ0AA9SRVFVRVNUX1RJTUVPVVRzcQB+AAt7Z6iJdAAQTVVMVElQTEVfQ0hPSUNFU3NxAH4ACx2EPlJ0ABFNT1ZFRF9QRVJNQU5FTlRMWXNxAH4AC4pb2690AAJURXNxAH4AC9UWib10AA5HYXRld2F5VGltZW91dHNxAH4AC+Xe39F0ABBDT05URU5UX0xPQ0FUSU9Oc3EAfgAL0IalO3QAD1BBUlRJQUxfQ09OVEVOVHNxAH4AC9n5a3V0ABNyZW1vdmluZ0Zyb21TZXNzaW9uc3EAfgALMHGy2nQAFElOU1VGRklDSUVOVF9TVE9SQUdFc3EAfgALIXlJq3QAEW11bHRpcGFydEZvcm1EYXRhc3EAfgALWQLqZHQADEVWRU5UX1NUUkVBTXNxAH4AC3BirRR0AAxzeW5jaHJvbml6ZWRzcQB+AAsuSQHfdAAQRmFpbGVkRGVwZW5kZW5jeXNxAH4AC9/JVSF0AARFVEFHc3EAfgALfMYhrXQAD0xFTkdUSF9SRVFVSVJFRHNxAH4AC5KaeyV0AA53aXRoTmV3U2Vzc2lvbnNxAH4ACxVKMUF0AApKQVZBU0NSSVBUc3EAfgAL34bEhHQADkVudGl0eVRvb0xhcmdlc3EAfgALRqATd3QADFVOQVVUSE9SSVpFRHNxAH4AC664M4Z0ABJzZW5kUGF0aCRkZWZhdWx0JDJzcQB+AAusrTzhdAAWVU5TVVBQT1JURURfTUVESUFfVFlQRXNxAH4AC8l/dgF0AAJkYnNxAH4AC0uJzcl0AA0kaXNJbnN0YW5jZU9mc3EAfgALIYRPZHQAB1JFRkVSRVJzcQB+AAvcffkXdAAYUkVRVUVTVF9FTlRJVFlfVE9PX0xBUkdFc3EAfgALByihjHQABk9SSUdJTnNxAH4ACx6Kd+t0AAt3aXRoQ29va2llc3NxAH4AC+9y/1V0AA9BQ0NFUFRfTEFOR1VBR0VzcQB+AAtZLVfMdAAMTk9UX01PRElGSUVEc3EAfgALw1EdgnQAAmFzc3EAfgALjInPTHQAC3dpdGhTZXNzaW9uc3EAfgALN8T4D3QAGkhUVFBfVkVSU0lPTl9OT1RfU1VQUE9SVEVEc3EAfgALIZKC9nQAG0FDQ0VTU19DT05UUk9MX0FMTE9XX09SSUdJTnNxAH4AC5x7n7J0ABJzZW5kRmlsZSRkZWZhdWx0JDNzcQB+AAseJNHYdAATVW5wcm9jZXNzYWJsZUVudGl0eXNxAH4AC011yap0AA1yYXckZGVmYXVsdCQyc3EAfgALVQe9t3QABHRleHRzcQB+AAvgnBB/dAAIY2FuRXF1YWxzcQB+AAvPcDFpdAAITm90Rm91bmRzcQB+AAuCBmyqdAAGY29uZmlnc3EAfgALsfNELXQACElGX1JBTkdFc3EAfgALq68KsXQAEnNlbmRGaWxlJGRlZmF1bHQkNHNxAH4AC7Q2HEt0ABttdWx0aXBhcnRGb3JtRGF0YSRkZWZhdWx0JDJzcQB+AAsPSJa8dAAIZmxhc2hpbmdzcQB+AAsj4Zm9dAAHZGVjaHVua3NxAH4AC1ZSnYp0AARGT1JNc3EAfgALDL53pHQAE0lGX1VOTU9ESUZJRURfU0lOQ0VzcQB+AAvfjHT+dAATU1dJVENISU5HX1BST1RPQ09MU3NxAH4AC/GmQ8x0ABJURU1QT1JBUllfUkVESVJFQ1RzcQB+AAv+wR5VdAANcHJvZHVjdFByZWZpeHNxAH4AC87bzsx0AA5DT05URU5UX0xFTkdUSHNxAH4ACypaUgx0AAVUYXJlYXNxAH4AC/64U9Z0AA10ZW1wb3JhcnlGaWxlc3EAfgALUba3b3QAClNFVF9DT09LSUVzcQB+AAtKe0SKdAAJbm90aWZ5QWxsc3EAfgAL8oLnm3QAC3JlYWRSZXNvbHZlc3EAfgALOWCmoXQAA0FHRXNxAH4ACzpt3tB0ABREZWZhdWx0TWF4VGV4dExlbmd0aHNxAH4ACzHaqnF0AAtCQURfR0FURVdBWXNxAH4AC7MBwSx0ABJFWFBFQ1RBVElPTl9GQUlMRURzcQB+AAt3iHIidAAKQ09OTkVDVElPTnNxAH4AC0t9h1V0AAlGT1JXQVJERURzcQB+AAvNkT2JdAACT2tzcQB+AAteeA1rdAAQZ3JpZEZTQm9keVBhcnNlcnNxAH4AC3DqJrV0AAxpc0luc3RhbmNlT2ZzcQB+AAsEfumAdAAQTW92ZWRQZXJtYW5lbnRseXNxAH4AC2UHxT90AAJPS3NxAH4AC9IMdUV0ABFkaXNjYXJkaW5nQ29va2llc3NxAH4ACxuykX10ABVBcHBsaWNhdGlvblhtbE1hdGNoZXJzcQB+AAv+gv4VdAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfSEVBREVSU3NxAH4AC3Cn9BN0AA5DQUNIRV9NQU5JRkVTVHNxAH4ACxl2kAt0AAlGb3JiaWRkZW5zcQB+AAs8byYbdAAXSHR0cFZlcnNpb25Ob3RTdXBwb3J0ZWRzcQB+AAtYWHcEdAAEVEVYVHNxAH4ACxAxwi90AApCYWRSZXF1ZXN0c3EAfgALHL85FHQABUZPVU5Ec3EAfgALeYxleHQABjxpbml0PnNxAH4AC4cl38B0AAtOb3RNb2RpZmllZHNxAH4ACxP7/zV0AAREQVRFc3EAfgALj1erR3QAD2NyZWF0ZUJhZFJlc3VsdHNxAH4AC25hkjp0AAVhc3luY3NxAH4AC8y/sql0AA1DT05URU5UX1JBTkdFc3EAfgALwMO3jnQACVVOTElNSVRFRHNxAH4AC9LYmIR0AAQkYW1wc3EAfgAL1h7uDnQADHNlbmRSZXNvdXJjZXNxAH4AC+hWWEp0AAx0b2xlcmFudFRleHRzcQB+AAv1GZDIdAAGZHJpdmVyc3EAfgALY7X8O3QAB2NodW5rZWRzcQB+AAuzF1tQdAARVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAshAsAIdAAFdGFza3NzcQB+AAufpYIPdAAFYXBwbHlzcQB+AAsZBZstdAADcmF3c3EAfgAL5lMODnQABWVycm9yc3EAfgALvh9xGXQAA3htbHNxAH4AC7OPPeJ0AAVwYXJzZXNxAH4AC85QvRF0ABNQUk9YWV9BVVRIT1JJWkFUSU9Oc3EAfgALNPmZNnQAAj09c3EAfgALNkqq5HQABEdPTkVzcQB+AAspRwv3dAAPc2VydmUkZGVmYXVsdCQzc3EAfgALBfdqCnQABEdvbmVzcQB+AAtPUFaLdAAgQUNDRVNTX0NPTlRST0xfQUxMT1dfQ1JFREVOVElBTFNzcQB+AAuyOlGDdAAOTk9UX0FDQ0VQVEFCTEVzcQB+AAt0G8A9dAAFY2xvbmVzcQB+AAu+f5ECdAAGc3RyZWFtc3EAfgALFjTi1HQABnN0YXR1c3NxAH4AC1+uL010AAZFWFBFQ1RzcQB+AAv1x5+5dAAWc2VuZFJlc291cmNlJGRlZmF1bHQkM3NxAH4AC0888kd0AAdkZWZhdWx0c3EAfgALRo1qcXQAElNlcnZpY2VVbmF2YWlsYWJsZXNxAH4AC+UGAWp0AAhMT0NBVElPTnNxAH4AC+3J29Z0ABJzZW5kUGF0aCRkZWZhdWx0JDRzcQB+AAsiy7MQdAAEVkFSWXNxAH4AC/161bl0ABBXV1dfQVVUSEVOVElDQVRFc3EAfgALkq0FxnQAC0FwcGxpY2F0aW9uc3EAfgALfWD7oXQABGZlZWRzcQB+AAu3z5UQdAAEVE9ET3NxAH4ACw9nGMJ0AA9YX0ZPUldBUkRFRF9GT1JzcQB+AAvp4dk6dAAOZm9ybSRkZWZhdWx0JDNzcQB+AAuNs54XdAASUHJlY29uZGl0aW9uRmFpbGVkc3EAfgALiSqXc3QACEFDQ0VQVEVEc3EAfgALca8j1HQABEh0bWxzcQB+AAtEFTSzdAAKTk9fQ09OVEVOVHNxAH4ACw8NDpl0AAhIVFRQXzFfMHNxAH4ACx8Daax0AA1KU09OX0tFWV9UQVNLc3EAfgALd0x9i3QAFUlOVEVSTkFMX1NFUlZFUl9FUlJPUnNxAH4ACxdiDWB0AA9jaHVuayRkZWZhdWx0JDFzcQB+AAt00EvFdAAHVVBHUkFERXNxAH4AC2FbpE10ABZ0b2xlcmFudEZvcm1VcmxFbmNvZGVkc3EAfgALPxUQqXQACU5PVF9GT1VORHNxAH4AC7SCovJ0AAdzZXNzaW9uc3EAfgALutiRMXQAD0FDQ0VQVF9FTkNPRElOR3NxAH4AC0uQpbN0ABNJbnRlcm5hbFNlcnZlckVycm9yc3EAfgALU+nDTHQAB0VYUElSRVNzcQB+AAvnHm1BdAAOY29weSRkZWZhdWx0JDNzcQB+AAvK6RyGdAAEY29weXNxAH4ACzZ4P1l0AB9SRVFVRVNURURfUkFOR0VfTk9UX1NBVElTRklBQkxFc3EAfgALG78rb3QABmhlYWRlcnNxAH4ACyZvYCh0ABREZWZhdWx0TWF4RGlza0xlbmd0aHNxAH4AC7SZDJB0AAh0b1N0cmluZ3NxAH4AC9K49Y90AAxVbmF1dGhvcml6ZWRzcQB+AAvAezmkdAAEZmlsZXNxAH4AC4tgfGB0AA5SZXF1ZXN0VGltZW91dHNxAH4ACwrE5Op0AAZBQ0NFUFRzcQB+AAvy9NbNdAAKVXJpVG9vTG9uZ3NxAH4AC+oBZGp0AA9HQVRFV0FZX1RJTUVPVVRzcQB+AAse9MfddAALTXVsdGlTdGF0dXNzcQB+AAujEmWudAAGU0VSVkVSc3EAfgALdWrVnnQAHUFDQ0VTU19DT05UUk9MX1JFUVVFU1RfTUVUSE9Ec3EAfgAL2seW1nQAFFVOUFJPQ0VTU0FCTEVfRU5USVRZc3EAfgALoRs2LnQAFkFDQ0VTU19DT05UUk9MX01BWF9BR0VzcQB+AAuifQbidAAIc2VuZFBhdGhzcQB+AAs/bORKdAACIT1zcQB+AAvGRBtSdAANTEFTVF9NT0RJRklFRHNxAH4ACyi9mR90AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4ACx1tt4x0AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAuLi1RNdAALd2l0aENoYXJzZXRzcQB+AAsGHK4qdAAIQ29uZmxpY3RzcQB+AAtv5maodAAKY29ubmVjdGlvbnNxAH4AC/CmCkZ0AAVBTExPV3NxAH4AC3o/EWV0AAZDT09LSUVzcQB+AAuetZQMdAARSUZfTU9ESUZJRURfU0lOQ0VzcQB+AAvvBhNXdAAIZ2V0Q2xhc3NzcQB+AAvvyPkfdAADWG1sc3EAfgALM48M03QAGUNPTlRFTlRfVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAtYaEicdAAOY29weSRkZWZhdWx0JDFzcQB+AAuh58/+dAAESFRNTHNxAH4ACyaye510AAVGb3VuZHNxAH4AC00yFYd0AB1OT05fQVVUSE9SSVRBVElWRV9JTkZPUk1BVElPTnNxAH4ACxs2EPl0AARmb3Jtc3EAfgALrYkeTHQABnJlbmRlcnNxAH4AC/SyouJ0AAZQUkFHTUFzcQB+AAs66xkAdAAISUZfTUFUQ0hzcQB+AAu4Wk0zdAAdUFJPWFlfQVVUSEVOVElDQVRJT05fUkVRVUlSRURzcQB+AAuPBL9wdAANUkVTRVRfQ09OVEVOVHNxAH4ACxs2DcB0AAlTRUVfT1RIRVJzcQB+AAtDJ2lWdAARRkFJTEVEX0RFUEVOREVOQ1lzcQB+AAupgTd9dAACbmVzcQB+AAs8vWgjdAAQQ09OVEVOVF9FTkNPRElOR3NxAH4AC0XzxeV0ABNJbnN1ZmZpY2llbnRTdG9yYWdlc3EAfgALfBRuxXQABVJBTkdFc3EAfgALwsIhGXQAD3dpdGhEYXRlSGVhZGVyc3NxAH4ACwY891F0AAlVU0VfUFJPWFlzcQB+AAsqfFLudAAHQWNjZXB0c3NxAH4AC/n9JBx0AAdDSFVOS0VEc3EAfgALPwq4o3QAFFJFUVVFU1RfVVJJX1RPT19MT05Hc3EAfgALSfa+J3QAElJlZGlyZWN0JGRlZmF1bHQkM3NxAH4ACwLBFdl0AAZMT0NLRURzcQB+AAueWawadAAEd2hlbnNxAH4AC9lz0dp0ABJzZW5kUGF0aCRkZWZhdWx0JDNzcQB+AAu1R3LVdAAGaWdub3Jlc3EAfgAL11jWBXQABEpzb25zcQB+AAupH1m3dAAJbWF4TGVuZ3Roc3EAfgALDbm7SnQACUZPUkJJRERFTnNxAH4AC5X2h9Z0ABJNRVRIT0RfTk9UX0FMTE9XRURzcQB+AAulmTWVdAACZXFzcQB+AAuR4Y6mdAAZY3JlYXRlQmFkUmVzdWx0JGRlZmF1bHQkMnNxAH4ACyhuIod0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAv2JOUQdAANSUZfTk9ORV9NQVRDSHNxAH4AC3BQmYV0AA1BQ0NFUFRfUkFOR0VTc3EAfgALZHAn/XQACU5vQ29udGVudHNxAH4AC05XYft0ABBYX1JFUVVFU1RFRF9XSVRIc3EAfgAL0iB/7XQAEVhfRk9SV0FSREVEX1BST1RPc3EAfgALud49KnQAC3RvbGVyYW50WG1sc3EAfgALzBKF+nQADE1VTFRJX1NUQVRVU3NxAH4AC8xVLF50AAIjI3NxAH4ACxCv09x0AAhmaW5hbGl6ZXNxAH4AC85rGZ10ABNTRVJWSUNFX1VOQVZBSUxBQkxFc3EAfgALBV/7D3QABWluZGV4c3EAfgALz6JwvnQADnByb2R1Y3RFbGVtZW50c3EAfgALr5FSqnQACGhhc2hDb2Rlc3EAfgALHsDi5HQABlN0YXR1c3NxAH4ACzzxNBJ0AAt3aXRoSGVhZGVyc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+Anl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABdjb250cm9sbGVycy5BcHBsaWNhdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAE2phdmF4LmluamVjdC5JbmplY3RzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ApN4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ApIAcHNxAH4Cl3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgJ5TAAJaW5oZXJpdGVkcQB+AnlMAAdwYXJlbnRzcQB+Anl4cQB+AptzcQB+ApIAcHNxAH4Cl3VxAH4CdAAAAABzcQB+ApIAcHNxAH4Cl3VxAH4CdAAAAABzcQB+ApIAcHNxAH4Cl3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAOc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4CmnQAF1JlYWN0aXZlTW9uZ29Db21wb25lbnRzc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgKac3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgK3dAAHbW9kdWxlc3NxAH4Ct3QADXJlYWN0aXZlbW9uZ29zcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4CuHNxAH4Cq3QAD01vbmdvQ29udHJvbGxlcnEAfgKxc3EAfgKrdAAKQ29udHJvbGxlcnNxAH4Cr3NxAH4CsnVxAH4CtQAAAARzcQB+Ard0AARwbGF5c3EAfgK3dAADYXBpc3EAfgK3dAADbXZjcQB+AsBzcQB+Aqt0AAlSZW5kZXJpbmdxAH4CxXNxAH4Cq3QAEVJlcXVlc3RFeHRyYWN0b3JzcQB+AsVzcQB+Aqt0ABBBY2NlcHRFeHRyYWN0b3JzcQB+AsVzcQB+Aqt0AAxDb250ZW50VHlwZXNzcQB+Aq9zcQB+ArJ1cQB+ArUAAAAEc3EAfgK3dAAEcGxheXNxAH4Ct3EAfgLLc3EAfgK3dAAEaHR0cHEAfgLAc3EAfgKrdAALSGVhZGVyTmFtZXNxAH4C1nNxAH4Cq3QABlN0YXR1c3EAfgLWc3EAfgKrdAAMSHR0cFByb3RvY29scQB+AtZzcQB+Aqt0AAtCb2R5UGFyc2Vyc3EAfgLFc3EAfgKrdAAHUmVzdWx0c3EAfgLFc3EAfgKrdAAGT2JqZWN0c3EAfgKvc3EAfgKydXEAfgK1AAAAA3NxAH4Ct3QABGphdmFzcQB+Ard0AARsYW5ncQB+AsBzcQB+Aqt0AANBbnlzcQB+Aq9zcQB+ArJ1cQB+ArUAAAACc3EAfgK3dAAFc2NhbGFxAH4CwHNxAH4CdnEAfgKDdXEAfgKEAAAAAHNxAH4ChgB0ABFjb250cm9sbGVycy5UYXJlYXVxAH4CiQAAAABxAH4CjXVxAH4CjwAAAABzcQB+ApIAcHNxAH4Cl3EAfgKcc3EAfgKSAHBzcQB+ApdzcQB+Ap9zcQB+ApIAcHNxAH4Cl3VxAH4CdAAAAABzcQB+ApIAcHNxAH4Cl3VxAH4CdAAAAABzcQB+ApIAcHNxAH4Cl3VxAH4CqQAAAAZzcQB+Aqt0AAxTZXJpYWxpemFibGVzcQB+Aq9zcQB+ArJ1cQB+ArUAAAACc3EAfgK3cQB+AvdxAH4CwHNxAH4Cq3EAfgMNc3EAfgKvc3EAfgKydXEAfgK1AAAAA3NxAH4Ct3EAfgLuc3EAfgK3dAACaW9xAH4CwHNxAH4Cq3QAB1Byb2R1Y3RxAH4DDnNxAH4Cq3QABkVxdWFsc3EAfgMOc3EAfgKrcQB+AulzcQB+Aq9zcQB+ArJ1cQB+ArUAAAADc3EAfgK3cQB+Au5zcQB+ArdxAH4C8HEAfgLAc3EAfgKrcQB+AvJxAH4DDnNxAH4CdnEAfgKDdXEAfgKEAAAAAHNxAH4ChgB0ABFjb250cm9sbGVycy5UYXJlYXVxAH4CiQAAAAB+cQB+Aot0AAZNb2R1bGV1cQB+Ao8AAAAAc3EAfgKSAHBzcQB+ApdxAH4CnHNxAH4CkgBwc3EAfgKXc3EAfgKfc3EAfgKSAHBzcQB+Apd1cQB+AnQAAAAAc3EAfgKSAHBzcQB+Apd1cQB+AnQAAAAAc3EAfgKSAHBzcQB+Apd1cQB+AqkAAAAEc3EAfgKrcQB+Aw1zcQB+Aq9zcQB+ArJ1cQB+ArUAAAACc3EAfgK3cQB+AvdxAH4CwHNxAH4Cq3EAfgMNc3EAfgKvc3EAfgKydXEAfgK1AAAAA3NxAH4Ct3EAfgLuc3EAfgK3dAACaW9xAH4CwHNxAH4Cq3EAfgLpc3EAfgKvc3EAfgKydXEAfgK1AAAAA3NxAH4Ct3EAfgLuc3EAfgK3cQB+AvBxAH4CwHNxAH4Cq3EAfgLycQB+Azt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVewRw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABERDpcc2NhbGFcYWN0aXZhdG9yLTEuMy42LW1pbmltYWxcVE9ETy1MaXN0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRLJs+eT2pchEVGmM6PEuVSqqWvYA==
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDeMVGXAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cObnmIl0AAZub3RpZnlzcQB+AAxkK0CndAAHYWRkVGFza3NxAH4ADLkp8fN0AA5fZGVmYXVsdFByZWZpeHNxAH4ADDOyh9V0AAR3YWl0c3EAfgAMu6V0PXQADSRhc0luc3RhbmNlT2ZzcQB+AAxjMhuTdAAKdXBkYXRlVGFza3NxAH4ADOAE7SJ0AAZlcXVhbHNzcQB+AAw8ArPIdAAKcmVtb3ZlVGFza3NxAH4ADP5tz7h0AAxhc0luc3RhbmNlT2ZzcQB+AAxZJdeddAAMc3luY2hyb25pemVkc3EAfgAM7kGabnQADSRpc0luc3RhbmNlT2ZzcQB+AAym6BizdAANUmV2ZXJzZUFzc2V0c3NxAH4ADDLGoXV0AAlub3RpZnlBbGxzcQB+AAzdlpfydAAMaXNJbnN0YW5jZU9mc3EAfgAMoj38zXQABjxpbml0PnNxAH4ADMhDwrJ0AAJhdHNxAH4ADJqV6Rh0AAV0YXNrc3NxAH4ADBe2A110AAI9PXNxAH4ADIk25k10AAVjbG9uZXNxAH4ADPclpDB0ABNSZXZlcnNlV2ViSmFyQXNzZXRzc3EAfgAMHJamHnQACHRvU3RyaW5nc3EAfgAM6lo28nQAAiE9c3EAfgAM9/mONHQACGdldENsYXNzc3EAfgAMu8LQK3QAAm5lc3EAfgAMsfxZM3QACXZlcnNpb25lZHNxAH4ADGqvC8l0AAJlcXNxAH4ADJUCEwZ0ABJSZXZlcnNlQXBwbGljYXRpb25zcQB+AAyaltn/dAACIyNzcQB+AAxYfbCAdAAIZmluYWxpemVzcQB+AAwdGi74dAAFaW5kZXhzcQB+AAwD01gldAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAqY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlV2ViSmFyQXNzZXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBueHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBtAHBzcQB+AHJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgB2c3EAfgBtAHBzcQB+AHJ1cQB+AFAAAAAAc3EAfgBtAHBzcQB+AHJ1cQB+AFAAAAAAc3EAfgBtAHBzcQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJNzcQB+AIZ0AANBbnlzcQB+AIpzcQB+AI11cQB+AJAAAAACc3EAfgCSdAAFc2NhbGFxAH4AmXNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0ACRjb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VBc3NldHN1cQB+AGUAAAAAcQB+AGl1cQB+AGsAAAAAc3EAfgBtAHBzcQB+AHJxAH4Ad3NxAH4AbQBwc3EAfgByc3EAfgB6c3EAfgBtAHBzcQB+AHJ1cQB+AFAAAAAAc3EAfgBtAHBzcQB+AHJ1cQB+AFAAAAAAc3EAfgBtAHBzcQB+AHJ1cQB+AIQAAAACc3EAfgCGcQB+AIlzcQB+AIpzcQB+AI11cQB+AJAAAAADc3EAfgCScQB+AJVzcQB+AJJxAH4Al3EAfgCZc3EAfgCGcQB+AJtzcQB+AIpzcQB+AI11cQB+AJAAAAACc3EAfgCScQB+AKBxAH4AmXNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0ACljb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VBcHBsaWNhdGlvbnVxAH4AZQAAAABxAH4AaXVxAH4AawAAAABzcQB+AG0AcHNxAH4AcnEAfgB3c3EAfgBtAHBzcQB+AHJzcQB+AHpzcQB+AG0AcHNxAH4AcnVxAH4AUAAAAABzcQB+AG0AcHNxAH4AcnVxAH4AUAAAAABzcQB+AG0AcHNxAH4AcnVxAH4AhAAAAAJzcQB+AIZxAH4AiXNxAH4AinNxAH4AjXVxAH4AkAAAAANzcQB+AJJxAH4AlXNxAH4AknEAfgCXcQB+AJlzcQB+AIZxAH4Am3NxAH4AinNxAH4AjXVxAH4AkAAAAAJzcQB+AJJxAH4AoHEAfgCZdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAWY29udHJvbGxlcnMuamF2YXNjcmlwdHNxAH4A4XQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRV7BHDXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEREOlxzY2FsYVxhY3RpdmF0b3ItMS4zLjYtbWluaW1hbFxUT0RPLUxpc3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNjoX6ncZ694vsQ+s39zKejHMoHl
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB98JvMAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBCWaPp0AAZub3RpZnlzcQB+AAwwtotpdAAHYWRkVGFza3NxAH4ADL+X5JN0AA5fZGVmYXVsdFByZWZpeHNxAH4ADOS69ox0AAR3YWl0c3EAfgAM0sOuS3QADSRhc0luc3RhbmNlT2ZzcQB+AAxw1wL9dAAKdXBkYXRlVGFza3NxAH4ADIQt1Mx0AAZlcXVhbHNzcQB+AAy5pOMkdAAKcmVtb3ZlVGFza3NxAH4ADL/JqHp0AAxhc0luc3RhbmNlT2ZzcQB+AAwOWQv+dAAMc3luY2hyb25pemVkc3EAfgAM1M/DJ3QADSRpc0luc3RhbmNlT2ZzcQB+AAzUgtJXdAANUmV2ZXJzZUFzc2V0c3NxAH4ADK8UWLt0AAlub3RpZnlBbGxzcQB+AAym3zYzdAAMaXNJbnN0YW5jZU9mc3EAfgAMPx+m7HQABjxpbml0PnNxAH4ADFZBDS10AAJhdHNxAH4ADLHmTTV0AAV0YXNrc3NxAH4ADK9/Ukl0AAI9PXNxAH4ADPXQ2A10AAVjbG9uZXNxAH4ADFjQcFJ0ABNSZXZlcnNlV2ViSmFyQXNzZXRzc3EAfgAMA00MI3QACHRvU3RyaW5nc3EAfgAMfHbwrnQAAiE9c3EAfgAMQOIi5HQACGdldENsYXNzc3EAfgAMnOYE6HQAAm5lc3EAfgAMp7RxUHQACXZlcnNpb25lZHNxAH4ADKpgPVV0AAJlcXNxAH4ADGEVoDl0ABJSZXZlcnNlQXBwbGljYXRpb25zcQB+AAzEJ4kXdAACIyNzcQB+AAwvHPT1dAAIZmluYWxpemVzcQB+AAxl1j28dAAFaW5kZXhzcQB+AAz0qEGddAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAfY29udHJvbGxlcnMuUmV2ZXJzZVdlYkphckFzc2V0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Abnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AbQBwc3EAfgByc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AdnNxAH4AbQBwc3EAfgBydXEAfgBQAAAAAHNxAH4AbQBwc3EAfgBydXEAfgBQAAAAAHNxAH4AbQBwc3EAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB1dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB1c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCSdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCTc3EAfgCGdAADQW55c3EAfgCKc3EAfgCNdXEAfgCQAAAAAnNxAH4AknQABXNjYWxhcQB+AJlzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAAZY29udHJvbGxlcnMuUmV2ZXJzZUFzc2V0c3VxAH4AZQAAAABxAH4AaXVxAH4AawAAAABzcQB+AG0AcHNxAH4AcnEAfgB3c3EAfgBtAHBzcQB+AHJzcQB+AHpzcQB+AG0AcHNxAH4AcnVxAH4AUAAAAABzcQB+AG0AcHNxAH4AcnVxAH4AUAAAAABzcQB+AG0AcHNxAH4AcnVxAH4AhAAAAAJzcQB+AIZxAH4AiXNxAH4AinNxAH4AjXVxAH4AkAAAAANzcQB+AJJxAH4AlXNxAH4AknEAfgCXcQB+AJlzcQB+AIZxAH4Am3NxAH4AinNxAH4AjXVxAH4AkAAAAAJzcQB+AJJxAH4AoHEAfgCZc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQAHmNvbnRyb2xsZXJzLlJldmVyc2VBcHBsaWNhdGlvbnVxAH4AZQAAAABxAH4AaXVxAH4AawAAAABzcQB+AG0AcHNxAH4AcnEAfgB3c3EAfgBtAHBzcQB+AHJzcQB+AHpzcQB+AG0AcHNxAH4AcnVxAH4AUAAAAABzcQB+AG0AcHNxAH4AcnVxAH4AUAAAAABzcQB+AG0AcHNxAH4AcnVxAH4AhAAAAAJzcQB+AIZxAH4AiXNxAH4AinNxAH4AjXVxAH4AkAAAAANzcQB+AJJxAH4AlXNxAH4AknEAfgCXcQB+AJlzcQB+AIZxAH4Am3NxAH4AinNxAH4AjXVxAH4AkAAAAAJzcQB+AJJxAH4AoHEAfgCZdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVFXsEcNdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAREQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXFRPRE8tTGlzdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUKne6SKcCmkVkydz+F6Nlx2vmkHQ=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVewRw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAREQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXFRPRE8tTGlzdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU6Nc5PzSQ5ryxKVgmKzsvlumXVTY=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCchlcIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cE2B+bZ0AAZub3RpZnlzcQB+AAxlm95SdAAKYmFkUmVxdWVzdHNxAH4ADICYB9J0AAR3YWl0c3EAfgAMcvaVfXQADSRhc0luc3RhbmNlT2ZzcQB+AAxJNkt3dAAGcm91dGVzc3EAfgAMR/aD4nQAJGNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3Rhc2tzMV9yb3V0ZXNxAH4ADEHezON0ACJjb250cm9sbGVyc19XZWJKYXJBc3NldHNfYXQ2X3JvdXRlc3EAfgAMnnvHSXQADWNyZWF0ZUludm9rZXJzcQB+AAw6Cm0edAAGZXF1YWxzc3EAfgAMT5nme3QAJmNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX2FkZFRhc2syX3JvdXRlc3EAfgAMVMff73QABnByZWZpeHNxAH4ADAieBQR0ACtjb250cm9sbGVyc19BcHBsaWNhdGlvbl9yZW1vdmVUYXNrM19pbnZva2Vyc3EAfgAM7rEG3nQADGFzSW5zdGFuY2VPZnNxAH4ADHHmJot0ACtjb250cm9sbGVyc19BcHBsaWNhdGlvbl91cGRhdGVUYXNrNF9pbnZva2Vyc3EAfgAMAk/zSnQADWRvY3VtZW50YXRpb25zcQB+AAyDGx5HdAAmY29udHJvbGxlcnNfQXBwbGljYXRpb25faW5kZXgwX2ludm9rZXJzcQB+AAzIAcDgdAAMc3luY2hyb25pemVkc3EAfgAM2lG3hXQADSRpc0luc3RhbmNlT2ZzcQB+AAxDqHCvdAAKaGFuZGxlckZvcnNxAH4ADPFNUDJ0AAlub3RpZnlBbGxzcQB+AAwHYqridAAoY29udHJvbGxlcnNfQXBwbGljYXRpb25fYWRkVGFzazJfaW52b2tlcnNxAH4ADMhmhNR0AAxpc0luc3RhbmNlT2ZzcQB+AAzOS0WodAAMZXJyb3JIYW5kbGVyc3EAfgAMqaduxHQAJWNvbnRyb2xsZXJzX0Fzc2V0c192ZXJzaW9uZWQ1X2ludm9rZXJzcQB+AAzLF22jdAApY29udHJvbGxlcnNfQXBwbGljYXRpb25fcmVtb3ZlVGFzazNfcm91dGVzcQB+AAx3FgeudAAGPGluaXQ+c3EAfgAMPXdAiHQAJmNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3Rhc2tzMV9pbnZva2Vyc3EAfgAMWuhnt3QAAj09c3EAfgAMMd3HrHQABWNsb25lc3EAfgAMFQkTpHQAKWNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3VwZGF0ZVRhc2s0X3JvdXRlc3EAfgAMkibqRHQABlJvdXRlc3NxAH4ADLdI6/B0AAh0b1N0cmluZ3NxAH4ADMm/J8h0AAIhPXNxAH4ADMpR4yt0AAlmYWtlVmFsdWVzcQB+AAx0ov8YdAAIZ2V0Q2xhc3NzcQB+AAwIUQcBdAAkY29udHJvbGxlcnNfQXBwbGljYXRpb25faW5kZXgwX3JvdXRlc3EAfgAMMmBJpHQAAm5lc3EAfgAMBXHxLHQACndpdGhQcmVmaXhzcQB+AAyTLj6ydAAEY2FsbHNxAH4ADPdUv350AAJlcXNxAH4ADLihDCV0ACNjb250cm9sbGVyc19Bc3NldHNfdmVyc2lvbmVkNV9yb3V0ZXNxAH4ADC8JDJR0ACRjb250cm9sbGVyc19XZWJKYXJBc3NldHNfYXQ2X2ludm9rZXJzcQB+AAzF7kU4dAANZGVmYXVsdFByZWZpeHNxAH4ADPdSvRB0AAIjI3NxAH4ADG0D9Z10AAhmaW5hbGl6ZXNxAH4ADIWzUW90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA1yb3V0ZXIuUm91dGVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAATamF2YXguaW5qZWN0LkluamVjdHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AjXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AjABwc3EAfgCRc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHNMAAlpbmhlcml0ZWRxAH4Ac0wAB3BhcmVudHNxAH4Ac3hxAH4AlXNxAH4AjABwc3EAfgCRdXEAfgBuAAAAAHNxAH4AjABwc3EAfgCRdXEAfgBuAAAAAHNxAH4AjABwc3EAfgCRdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCUdAAPR2VuZXJhdGVkUm91dGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCUc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgCxdAAEY29yZXNxAH4AsXQAB3JvdXRpbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AsnNxAH4ApXQABlJvdXRlcnNxAH4AqXNxAH4ArHVxAH4ArwAAAARzcQB+ALF0AARwbGF5c3EAfgCxdAADYXBpc3EAfgCxdAAHcm91dGluZ3EAfgC6c3EAfgCldAAGT2JqZWN0c3EAfgCpc3EAfgCsdXEAfgCvAAAAA3NxAH4AsXQABGphdmFzcQB+ALF0AARsYW5ncQB+ALpzcQB+AKV0AANBbnlzcQB+AKlzcQB+AKx1cQB+AK8AAAACc3EAfgCxdAAFc2NhbGFxAH4AunVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnJvdXRlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVewRw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABERDpcc2NhbGFcYWN0aXZhdG9yLTEuMy42LW1pbmltYWxcVE9ETy1MaXN0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRzBTRsWF9lDn3yPkUG7PVk/hhq1A==
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBcdvxBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cN0jWmN0AAZub3RpZnlzcQB+AAw6mfPpdAAMYnlOYW1lUHJlZml4c3EAfgAMGqAuKnQABHdhaXRzcQB+AAwiihQedAANJGFzSW5zdGFuY2VPZnNxAH4ADGlC0gh0AAZlcXVhbHNzcQB+AAxzjiBXdAAGcHJlZml4c3EAfgAMoe4en3QADGFzSW5zdGFuY2VPZnNxAH4ADLjZuch0AAxSb3V0ZXNQcmVmaXhzcQB+AAzBVSPudAAMc3luY2hyb25pemVkc3EAfgAM3PW0o3QADSRpc0luc3RhbmNlT2ZzcQB+AAxQkfPHdAAHX3ByZWZpeHNxAH4ADL28U7F0AAlub3RpZnlBbGxzcQB+AAz/ysYxdAAMaXNJbnN0YW5jZU9mc3EAfgAM2W34NHQAAj09c3EAfgAMxTNSy3QABWNsb25lc3EAfgAM+6h7k3QACHRvU3RyaW5nc3EAfgAMjL/9EnQAAiE9c3EAfgAMFWcPZ3QACGdldENsYXNzc3EAfgAMRJBH63QACXNldFByZWZpeHNxAH4ADA44Ta90AAJuZXNxAH4ADBnhnUh0AAJlcXNxAH4ADBp2Pzd0AAIjI3NxAH4ADAff5nh0AAhmaW5hbGl6ZXNxAH4ADIIAnnp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNyb3V0ZXIuUm91dGVzUHJlZml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AYHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXwBwc3EAfgBkc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwBwc3EAfgBkdXEAfgBCAAAAAHNxAH4AXwBwc3EAfgBkdXEAfgBCAAAAAHNxAH4AXwBwc3EAfgBkdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCEdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFc3EAfgB4dAADQW55c3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHQABXNjYWxhcQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVFXsEcNdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAREQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXFRPRE8tTGlzdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUJ9Rnpy9w0bx5+eEHa14RCpZRf1s=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB2HJRnAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLS+QU10AAZub3RpZnlzcQB+AAxQf3PrdAAGZm9ybWF0c3EAfgAMVtIRoXQABHdhaXRzcQB+AAxKygp4dAANJGFzSW5zdGFuY2VPZnNxAH4ADCKh30h0AAxwcm9kdWN0QXJpdHlzcQB+AAx/zHL+dAAGZXF1YWxzc3EAfgAMUyrnj3QADGFzSW5zdGFuY2VPZnNxAH4ADIH5byh0AAFmc3EAfgAMkLniQXQADHN5bmNocm9uaXplZHNxAH4ADB1SNXV0AAlfZGlzcGxheV9zcQB+AAyY8Oy2dAANJGlzSW5zdGFuY2VPZnNxAH4ADCzIbWR0AANyZWZzcQB+AAyjSKeidAAIY2FuRXF1YWxzcQB+AAzQ/BnBdAAMaW5kZXhfU2NvcGUwc3EAfgAMs6ty1nQADXByb2R1Y3RQcmVmaXhzcQB+AAxpq4t3dAAJbm90aWZ5QWxsc3EAfgAM1hxODHQAC3JlYWRSZXNvbHZlc3EAfgAMu41roHQADGlzSW5zdGFuY2VPZnNxAH4ADI25paV0AAY8aW5pdD5zcQB+AAx7887JdAAFYXBwbHlzcQB+AAzXQQF9dAACPT1zcQB+AAyP2tpCdAAFY2xvbmVzcQB+AAx3dajcdAAEY29weXNxAH4ADEYLyvp0AAh0b1N0cmluZ3NxAH4ADHsslD90AAIhPXNxAH4ADIfoUUx0AAhnZXRDbGFzc3NxAH4ADLIMbAF0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMQLTIt0AAZyZW5kZXJzcQB+AAypHxuedAACbmVzcQB+AAyRuGGXdAACZXFzcQB+AAxOmHwzdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMmBGk5XQAAiMjc3EAfgAMWGIkOXQACGZpbmFsaXplc3EAfgAMRX5BPHQABWluZGV4c3EAfgAMR9kkDnQADnByb2R1Y3RFbGVtZW50c3EAfgAMAD7BwnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAF3ZpZXdzLmh0bWwuaW5kZXhfU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AeHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdwBwc3EAfgB8c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AgHNxAH4AdwBwc3EAfgB8dXEAfgBaAAAAAHNxAH4AdwBwc3EAfgB8dXEAfgBaAAAAAHNxAH4AdwBwc3EAfgB8dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB/dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB/c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCcdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCdc3EAfgCQdAADQW55c3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHQABXNjYWxhcQB+AKNzcQB+AFxxAH4AaXVxAH4AagAAAABzcQB+AGwAdAAQdmlld3MuaHRtbC5pbmRleHVxAH4AbwAAAABxAH4Ac3VxAH4AdQAAAABzcQB+AHcAcHNxAH4AfHEAfgCBc3EAfgB3AHBzcQB+AHxzcQB+AIRzcQB+AHcAcHNxAH4AfHVxAH4AWgAAAABzcQB+AHcAcHNxAH4AfHVxAH4AWgAAAABzcQB+AHcAcHNxAH4AfHVxAH4AjgAAAAlzcQB+AJB0AAVpbmRleHNxAH4AkHQADGluZGV4X1Njb3BlMHNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJx0AAV2aWV3c3NxAH4AnHQABGh0bWxxAH4Ao3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AkVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Af3NxAH4AkHQACVRlbXBsYXRlMXNxAH4AlHNxAH4Al3VxAH4AmgAAAARzcQB+AJx0AARwbGF5c3EAfgCcdAAFdHdpcmxzcQB+AJx0AANhcGlxAH4Ao3VxAH4AjgAAAAJzcQB+AJB0AAZTdHJpbmdzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCccQB+AJ9zcQB+AJxxAH4AoXEAfgCjc3EAfgCQdAAESHRtbHEAfgDPc3EAfgDKc3EAfgCQdAARQmFzZVNjYWxhVGVtcGxhdGVxAH4Az3VxAH4AjgAAAAJxAH4A4HNxAH4AynNxAH4AkHQABkZvcm1hdHEAfgDPdXEAfgCOAAAAAXEAfgDgc3EAfgCQdAAMU2VyaWFsaXphYmxlc3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHEAfgCqcQB+AKNzcQB+AJBxAH4A63NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4An3NxAH4AnHQAAmlvcQB+AKNzcQB+AJB0AAdQcm9kdWN0cQB+AOxzcQB+AJB0AAZFcXVhbHNxAH4A7HNxAH4AkHEAfgCTcQB+ANtzcQB+AJBxAH4ApXEAfgDsdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFdmlld3NzcQB+AP90AAp2aWV3cy5odG1sc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRV7BHDXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEREOlxzY2FsYVxhY3RpdmF0b3ItMS4zLjYtbWluaW1hbFxUT0RPLUxpc3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKBhaIyclpPcoewZ+w/MoaXmdNTv
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBDsQisAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ+erg90AAZub3RpZnlzcQB+AAx0cyb5dAAGZm9ybWF0c3EAfgAMK7ilVHQABHdhaXRzcQB+AAzVxhWJdAANJGFzSW5zdGFuY2VPZnNxAH4ADIAJ0Wh0AAxwcm9kdWN0QXJpdHlzcQB+AAwsk/iWdAAGZXF1YWxzc3EAfgAMJDb0pHQABmthbmJhbnNxAH4ADL+UVQh0AA1rYW5iYW5fU2NvcGUwc3EAfgAM5idXFXQADGFzSW5zdGFuY2VPZnNxAH4ADIafexh0AAFmc3EAfgAMcMVQ+XQADHN5bmNocm9uaXplZHNxAH4ADHO7bOx0AAlfZGlzcGxheV9zcQB+AAzZ0TMOdAANJGlzSW5zdGFuY2VPZnNxAH4ADOAshU90AANyZWZzcQB+AAzgoQZvdAAIY2FuRXF1YWxzcQB+AAwAdi3ydAANcHJvZHVjdFByZWZpeHNxAH4ADNt7sFZ0AAlub3RpZnlBbGxzcQB+AAzT4/z+dAALcmVhZFJlc29sdmVzcQB+AAzZZRzTdAAMaXNJbnN0YW5jZU9mc3EAfgAM5/sUq3QABjxpbml0PnNxAH4ADKTYYpt0AAVhcHBseXNxAH4ADLl4l510AAI9PXNxAH4ADL5e8wV0AAVjbG9uZXNxAH4ADB7aF+x0AARjb3B5c3EAfgAMP2i3pnQACHRvU3RyaW5nc3EAfgAMpagV0XQAAiE9c3EAfgAME+c4GnQACGdldENsYXNzc3EAfgAMjgEq43QADmNvcHkkZGVmYXVsdCQxc3EAfgAMt525QnQABnJlbmRlcnNxAH4ADIBTvAl0AAJuZXNxAH4ADAqvdEF0AAJlcXNxAH4ADJ+Y5Ah0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzAsr4fdAACIyNzcQB+AAx4ywALdAAIZmluYWxpemVzcQB+AAwFTUfbdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwrpG+SdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBfeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAYdmlld3MuaHRtbC5rYW5iYW5fU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AeHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdwBwc3EAfgB8c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AgHNxAH4AdwBwc3EAfgB8dXEAfgBaAAAAAHNxAH4AdwBwc3EAfgB8dXEAfgBaAAAAAHNxAH4AdwBwc3EAfgB8dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB/dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB/c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCcdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCdc3EAfgCQdAADQW55c3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHQABXNjYWxhcQB+AKNzcQB+AFxxAH4AaXVxAH4AagAAAABzcQB+AGwAdAARdmlld3MuaHRtbC5rYW5iYW51cQB+AG8AAAAAcQB+AHN1cQB+AHUAAAAAc3EAfgB3AHBzcQB+AHxxAH4AgXNxAH4AdwBwc3EAfgB8c3EAfgCEc3EAfgB3AHBzcQB+AHx1cQB+AFoAAAAAc3EAfgB3AHBzcQB+AHx1cQB+AFoAAAAAc3EAfgB3AHBzcQB+AHx1cQB+AI4AAAAJc3EAfgCQdAAGa2FuYmFuc3EAfgCQdAANa2FuYmFuX1Njb3BlMHNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJx0AAV2aWV3c3NxAH4AnHQABGh0bWxxAH4Ao3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AkVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Af3NxAH4AkHQACVRlbXBsYXRlMHNxAH4AlHNxAH4Al3VxAH4AmgAAAARzcQB+AJx0AARwbGF5c3EAfgCcdAAFdHdpcmxzcQB+AJx0AANhcGlxAH4Ao3VxAH4AjgAAAAFzcQB+AJB0AARIdG1scQB+AM9zcQB+AMpzcQB+AJB0ABFCYXNlU2NhbGFUZW1wbGF0ZXEAfgDPdXEAfgCOAAAAAnEAfgDZc3EAfgDKc3EAfgCQdAAGRm9ybWF0cQB+AM91cQB+AI4AAAABcQB+ANlzcQB+AJB0AAxTZXJpYWxpemFibGVzcQB+AJRzcQB+AJd1cQB+AJoAAAACc3EAfgCccQB+AKpxAH4Ao3NxAH4AkHEAfgDkc3EAfgCUc3EAfgCXdXEAfgCaAAAAA3NxAH4AnHEAfgCfc3EAfgCcdAACaW9xAH4Ao3NxAH4AkHQAB1Byb2R1Y3RxAH4A5XNxAH4AkHQABkVxdWFsc3EAfgDlc3EAfgCQcQB+AJNzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCccQB+AJ9zcQB+AJxxAH4AoXEAfgCjc3EAfgCQcQB+AKVxAH4A5XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXZpZXdzc3EAfgD9dAAKdmlld3MuaHRtbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVewRw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABERDpcc2NhbGFcYWN0aXZhdG9yLTEuMy42LW1pbmltYWxcVE9ETy1MaXN0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQBOO18TK/sGyzheEY+5fvLfvV4Lw==
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC62KKtAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK7QIOp0AAZub3RpZnlzcQB+AAz4wsn4dAAGZm9ybWF0c3EAfgAMuAM/X3QABHdhaXRzcQB+AAwRusk1dAANJGFzSW5zdGFuY2VPZnNxAH4ADKwjYYZ0AAxwcm9kdWN0QXJpdHlzcQB+AAwrnx3QdAAGZXF1YWxzc3EAfgAMOmWTIHQADGFzSW5zdGFuY2VPZnNxAH4ADD8qARR0AAFmc3EAfgAMP7s1THQADHN5bmNocm9uaXplZHNxAH4ADGX6KSl0AAlfZGlzcGxheV9zcQB+AAwdRe37dAANJGlzSW5zdGFuY2VPZnNxAH4ADBPHuxV0AANyZWZzcQB+AAza0S78dAAIY2FuRXF1YWxzcQB+AAwtXV9EdAAEbWFpbnNxAH4ADCP9qbt0AA1wcm9kdWN0UHJlZml4c3EAfgAMK+/Fe3QACW5vdGlmeUFsbHNxAH4ADHntALR0AAtyZWFkUmVzb2x2ZXNxAH4ADA700bR0AAxpc0luc3RhbmNlT2ZzcQB+AAylgtkPdAAGPGluaXQ+c3EAfgAMvC00T3QABWFwcGx5c3EAfgAMnoiwMHQAAj09c3EAfgAMwg1sxHQABWNsb25lc3EAfgAMkdDvXnQAC21haW5fU2NvcGUwc3EAfgAMCTdDKXQABGNvcHlzcQB+AAzX13bHdAAIdG9TdHJpbmdzcQB+AAxU2ScrdAACIT1zcQB+AAw0BWpodAAIZ2V0Q2xhc3NzcQB+AAxbY/72dAAOY29weSRkZWZhdWx0JDFzcQB+AAxI2uyOdAAGcmVuZGVyc3EAfgAMNwb2AXQAAm5lc3EAfgAMuLvRynQAAmVxc3EAfgAMGiVaC3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADEVwPB10AAIjI3NxAH4ADKZIUSx0AAhmaW5hbGl6ZXNxAH4ADFR3k4F0AA5wcm9kdWN0RWxlbWVudHNxAH4ADAgCCRN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABZ2aWV3cy5odG1sLm1haW5fU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AeHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdwBwc3EAfgB8c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AgHNxAH4AdwBwc3EAfgB8dXEAfgBaAAAAAHNxAH4AdwBwc3EAfgB8dXEAfgBaAAAAAHNxAH4AdwBwc3EAfgB8dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB/dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB/c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCcdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCdc3EAfgCQdAADQW55c3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHQABXNjYWxhcQB+AKNzcQB+AFxxAH4AaXVxAH4AagAAAABzcQB+AGwAdAAPdmlld3MuaHRtbC5tYWludXEAfgBvAAAAAHEAfgBzdXEAfgB1AAAAAHNxAH4AdwBwc3EAfgB8cQB+AIFzcQB+AHcAcHNxAH4AfHNxAH4AhHNxAH4AdwBwc3EAfgB8dXEAfgBaAAAAAHNxAH4AdwBwc3EAfgB8dXEAfgBaAAAAAHNxAH4AdwBwc3EAfgB8dXEAfgCOAAAACXNxAH4AkHQABG1haW5zcQB+AJB0AAttYWluX1Njb3BlMHNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJx0AAV2aWV3c3NxAH4AnHQABGh0bWxxAH4Ao3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AkVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Af3NxAH4AkHQACVRlbXBsYXRlMnNxAH4AlHNxAH4Al3VxAH4AmgAAAARzcQB+AJx0AARwbGF5c3EAfgCcdAAFdHdpcmxzcQB+AJx0AANhcGlxAH4Ao3VxAH4AjgAAAANzcQB+AJB0AAZTdHJpbmdzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCccQB+AJ9zcQB+AJxxAH4AoXEAfgCjc3EAfgCQdAAESHRtbHEAfgDPc3EAfgCQdAAESHRtbHEAfgDPc3EAfgDKc3EAfgCQdAARQmFzZVNjYWxhVGVtcGxhdGVxAH4Az3VxAH4AjgAAAAJxAH4A4nNxAH4AynNxAH4AkHQABkZvcm1hdHEAfgDPdXEAfgCOAAAAAXEAfgDic3EAfgCQdAAMU2VyaWFsaXphYmxlc3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHEAfgCqcQB+AKNzcQB+AJBxAH4A7XNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4An3NxAH4AnHQAAmlvcQB+AKNzcQB+AJB0AAdQcm9kdWN0cQB+AO5zcQB+AJB0AAZFcXVhbHNxAH4A7nNxAH4AkHEAfgCTcQB+ANtzcQB+AJBxAH4ApXEAfgDudXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFdmlld3NzcQB+AQF0AAp2aWV3cy5odG1sc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRV7BHDXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEREOlxzY2FsYVxhY3RpdmF0b3ItMS4zLjYtbWluaW1hbFxUT0RPLUxpc3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFF+epqwRICS9lohVqNF6jMpvNVZL
+external apis:
+0 items
+source infos:
+9 items
+D:\scala\activator-1.3.6-minimal\TODO-List\app\controllers\Application.scala -> 
+AAAAAQAAAQAAADEASCAgICB2YWwgY3Vyc29yOkN1cnNvcltUYXJlYV0gPSBjb2xsZWN0aW9uLmZpbmQoSnNvbi5vYmooKSkuY3Vyc29yW1RhcmVhXQEAAAWyAQAAADsBADsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEATEQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXFRPRE8tTGlzdFxhcHBcY29udHJvbGxlcnNcQXBwbGljYXRpb24uc2NhbGEBAExEOlxzY2FsYVxhY3RpdmF0b3ItMS4zLjYtbWluaW1hbFxUT0RPLUxpc3RcYXBwXGNvbnRyb2xsZXJzXEFwcGxpY2F0aW9uLnNjYWxhAGdtZXRob2QgY3Vyc29yIGluIHRyYWl0IEdlbmVyaWNRdWVyeUJ1aWxkZXIgaXMgZGVwcmVjYXRlZDogVXNlIFtbY3Vyc29yXV0gZnVuY3Rpb24gd2l0aCByZWFkIHByZWZlcmVuY2UuAQAAAAA=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\controllers\routes.java -> 
+AAAAAAAAAAA=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\Routes.scala -> 
+AAAAAAAAAAA=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\index.template.scala -> 
+AAAAAAAAAAA=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\kanban.template.scala -> 
+AAAAAAAAAAA=
+D:\scala\activator-1.3.6-minimal\TODO-List\target\scala-2.11\twirl\main\views\html\main.template.scala -> 
+AAAAAAAAAAA=
+compilations:
+40 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUTkcMoZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUTkgvaF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUTkkkGx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUTllivV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUTzwj5x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUT0eDQB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUT0eEpF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUSE4CF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUSE8gp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUSbA091cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUSlwtF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUSlyUR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUS0wJt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUS64A11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUTAjJt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUTBlu91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUTBmgF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUTYinl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUTlQ1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUTn1RF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUTtm3Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUTw5nN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUTzX7x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUT3fJJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUT4T6B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUT5/S91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUURL4J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUURNAB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUUS2EF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUUUHZh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUUjd+4p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVTHJSV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVTUr1V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVTce5d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVTcf9N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVTvBhV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVd6KzB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVeGVLt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVeONjN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXEthbmJhblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUVewRw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAREQ6XHNjYWxhXGFjdGl2YXRvci0xLjMuNi1taW5pbWFsXFRPRE8tTGlzdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

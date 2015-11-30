@@ -1,0 +1,132 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	border-style: none;
+	font-family: 'Comic Sans MS';
+}
+.taskDashboard{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	border-style: none;
+	text-align: center;
+
+}
+
+.taskDashboard .taskForm{
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	border-style: none;
+}
+
+.taskForm input{
+	width: 80%;
+	margin:0px;
+	padding: 0px;
+	display: inline-block;
+	border-style: none;
+	height: 40px;
+	font-family: 'Comic Sans MS';
+	padding-left: 1%;
+
+}
+
+.taskForm select{
+	width: 19%;
+	margin:0px;
+	padding:0px;
+	display: inline-block;
+	border-style: none;
+	height: 40px;
+	font-family: 'Comic Sans MS';
+
+}
+
+.taskList{
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+	padding: 0%;
+	margin: 1%;
+	border-style: none;
+	border-radius: 20px;
+	background-color:#A4A4A4; 
+	opacity: 0.8;
+}
+
+.taskList h1{
+	width: 100%;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	margin: 0;
+}
+
+.task{
+	margin: 2%;
+	border-radius: 5px;
+	text-align: justify;
+	color: white;
+	padding-left: 2%;
+}
+
+.task svg:hover > g{
+	fill:blue;
+}
+
+.task svg g{
+	fill:white;
+}
+
+.task .satusSelect select{
+	height: 40px;
+	 -webkit-appearance: none;
+    -moz-appearance: none;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    opacity: 0.9;
+    color: white;
+}
+
+.taskForm select{
+	-webkit-appearance: none;
+    -moz-appearance: none;
+    overflow:hidden;
+    text-align: center;
+    background-color: #5858FA;
+    color:white;
+}
+
+.taskForm option[value="Pendiente"]{
+	background-color: #FE2E2E;
+	padding-top: 10px;
+	height: 30px;
+}
+.taskForm option[value="En camino"]{
+	background-color: #886A08;
+	padding-top: 10px;
+	height: 30px;
+}
+.taskForm option[value="Acabado"]{
+	background-color: #31B404;
+	padding-top: 10px;
+	height: 30px;
+}
+
+.task option[value="Pendiente"]{
+	background-color: #FE2E2E;
+	padding-top: 10px;
+	height: 30px;
+}
+.task option[value="En camino"]{
+	background-color: #886A08;
+	padding-top: 10px;
+	height: 30px;
+}
+.task option[value="Acabado"]{
+	background-color: #31B404;
+	padding-top: 10px;
+	height: 30px;
+}
+
